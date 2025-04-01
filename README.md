@@ -48,4 +48,3 @@ Lze přidávat nové funkce, jako jsou podpora více jazyků nebo pokročilá an
 Autoři: Elvy Seidlerová, Markéta Ledvinová
 Podobné projekty: Duolingo, Coursera
 Zdroje: Inspirace čerpána z výzkumů o personalizovaném učení a předmětu FUVI1 na UPCE.
-![image](https://github.com/user-attachments/assets/bdb8ad36-773e-4bed-a37a-51435b074b35)
